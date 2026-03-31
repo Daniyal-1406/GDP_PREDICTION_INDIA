@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac system files
+.DS_Store
+
+# VS Code temp files
+tempCodeRunnerFile.py
+
+# Generated folders (created by running the scripts)
+preprocessed/
+models/
+outputs/
+
+# Environment
+.env
+venv/
+*.egg-info/
